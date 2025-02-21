@@ -1,0 +1,4 @@
+{
+	"postCreateCommand": "npm create vite@latest . -- --template react-swc",
+	"updateContentCommand": "bash install.sh"
+}
