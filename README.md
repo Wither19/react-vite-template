@@ -1,8 +1,13 @@
-# React + Vite
+# Custom React Vite Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Preinstalled Packages
 
-Currently, two official plugins are available:
+- [sass](https://npmjs.com/package/sass)
+- [lodash](https://npmjs.com/package/lodash)
+- [react-icons](https://npmjs.com/package/react-icons)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+`npm i`
+
+`npm run dev`
