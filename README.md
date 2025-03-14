@@ -14,6 +14,6 @@ Added `scss` and `components` directories to `src`
 
 ## Installation
 
-`yarn`
+`yarn install` or `yarn`
 
-`yarn run dev`
+`yarn run dev` or `yarn dev`
